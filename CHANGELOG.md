@@ -1,6 +1,25 @@
+# 1.3.3 - 2021-08-17
+
+- ADDED
+- REMOVED
+- IMPROVED
+- BUGFIXES
+  - form-control border radius could not be applied in some cases
+  - button filter wasn't applied with hoverable classes
+
+# 1.3.2 - 2021-06-28
+
+- ADDED
+- REMOVED
+- IMPROVED
+- BUGFIXES
+  - Collapsible wasn't automatically opened with the `.active` class
+
 # 1.3.1 - 2021-06-15
 
 - ADDED
+  - Button group
+  - Background transition to sidenav overlay
 - REMOVED
 - IMPROVED
   - Set all definition file options optional
