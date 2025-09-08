@@ -49,7 +49,7 @@
   ],
   "engine": "node >= 10",
   "devDependencies": {
-    "@babel/core": "^7.14.6",
+    "@babel/core": "^7.28.3",
     "@babel/preset-env": "^7.14.5",
     "@xelzs/code-size": "^1.1.0",
     "browser-sync": "^2.26.13",
