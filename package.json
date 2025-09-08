@@ -55,7 +55,7 @@
     "browser-sync": "^2.26.13",
     "fibers": "^4.0.3",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
+    "gulp-autoprefixer": "^9.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-babel-minify": "^0.5.1",
     "gulp-concat": "^2.6.1",
