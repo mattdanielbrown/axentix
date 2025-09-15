@@ -52,7 +52,7 @@
     "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.14.5",
     "@xelzs/code-size": "^1.1.0",
-    "browser-sync": "^2.26.13",
+    "browser-sync": "^3.0.0",
     "fibers": "^4.0.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
